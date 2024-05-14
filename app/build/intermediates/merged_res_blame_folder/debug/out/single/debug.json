@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\font_amiko_bold.xml.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\font\\amiko_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_back.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_ground.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\ground.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_explode2.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\explode2.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\font_audiowide.xml.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\font\\audiowide.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_asteroid1.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\asteroid1.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_new_highest.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\new_highest.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_satelite1.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\satelite1.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_stop.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_start.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_explode3.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\explode3.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\layout_game_over.xml.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\layout\\game_over.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_explode1.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\explode1.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_explode0.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\explode0.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_asteroid2.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\asteroid2.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_asteroid.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\asteroid.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_satelite.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\satelite.png"
+    },
+    {
+        "merged": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-merged_res-31:\\drawable_restart.png.flat",
+        "source": "C:\\Users\\ipqve\\.gradle\\daemon\\8.2\\com.example.upgame.app-main-33:\\drawable\\restart.png"
+    }
+]
