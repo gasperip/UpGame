@@ -37,7 +37,7 @@ public class GameView extends View{
     Random random;
     float satX, satY;
     float oldX;
-    float oldAstX;
+    float oldSatX;
     ArrayList<Asteroid> asteroids;
     ArrayList<Explosion> explosions;
 
@@ -148,11 +148,11 @@ public class GameView extends View{
             int action = event.getAction();
             if (action == MotionEvent.ACTION_DOWN){
                 oldX = event.getX();
-                oldAstX = satX;
+                oldSatX = satX;
             }
             if (action == MotionEvent.ACTION_MOVE){
                 float shift = oldX - touchX;
-                float newSatX = oldAstX - shift;
+                float newSatX = oldSatX - shift;
                 if (newSatX <= 0)
                     satX = 0;
                 else if (newSatX >= dWidth - sat.getWidth())
