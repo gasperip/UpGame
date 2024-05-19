@@ -8,7 +8,7 @@ import java.util.Random;
 
 public class Asteroid {
     Bitmap ast[] = new Bitmap[3];
-    int spikeFrame = 0;
+    int astFrame = 0;
     int astX, astY, astVelocity;
     Random random;
 
@@ -20,9 +20,9 @@ public class Asteroid {
         resetPosition();
     }
 
-    public Bitmap getAst(int spikeFrame)
+    public Bitmap getAst(int astFrame)
     {
-        return ast[spikeFrame];
+        return ast[astFrame];
     }
 
     public int getAstWidth()
