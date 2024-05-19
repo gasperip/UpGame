@@ -84,10 +84,10 @@ public class GameView extends View{
         canvas.drawBitmap(ground, null, rectGround, null );
         canvas.drawBitmap(sat, satX, satY, null);
         for (int i = 0; i< asteroids.size(); i++){
-            canvas.drawBitmap(asteroids.get(i).getAst(asteroids.get(i).spikeFrame), asteroids.get(i).astX, asteroids.get(i).astY, null );
-            asteroids.get(i).spikeFrame++;
-            if(asteroids.get(i).spikeFrame > 2){
-                asteroids.get(i).spikeFrame = 0;
+            canvas.drawBitmap(asteroids.get(i).getAst(asteroids.get(i).astFrame), asteroids.get(i).astX, asteroids.get(i).astY, null );
+            asteroids.get(i).astFrame++;
+            if(asteroids.get(i).astFrame > 2){
+                asteroids.get(i).astFrame = 0;
             }
             asteroids.get(i).astY += asteroids.get(i).astVelocity;
             if(asteroids.get(i).astY + asteroids.get(i).getAstHeight() >= dHeight - ground.getHeight()){
