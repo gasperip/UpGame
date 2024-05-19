@@ -73,8 +73,8 @@ public class GameView extends View{
         asteroids = new ArrayList<>();
         explosions = new ArrayList<>();
         for (int i=0; i<3; i++) {
-            Asteroid spike = new Asteroid(context);
-            asteroids.add(spike);
+            Asteroid aster = new Asteroid(context);
+            asteroids.add(aster);
         }
     }
     @Override
