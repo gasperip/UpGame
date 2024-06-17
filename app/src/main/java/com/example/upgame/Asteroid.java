@@ -9,11 +9,11 @@ import java.util.Random;
 public class Asteroid {
     Bitmap ast[] = new Bitmap[3];
     int astFrame = 0;
-    int astX, astY, astVelocity;
+    int astX, astY, astVelocity=15;
     Random random;
 
     public Asteroid(Context context){
-        ast[0] = BitmapFactory.decodeResource(context.getResources(), R.drawable.asteroid);
+        ast[0] = BitmapFactory.decodeResource(context.getResources(),R.drawable.asteroid);
         ast[1] = BitmapFactory.decodeResource(context.getResources(),R.drawable.asteroid1);
         ast[2] = BitmapFactory.decodeResource(context.getResources(),R.drawable.asteroid2);
         random = new Random();
@@ -38,6 +38,6 @@ public class Asteroid {
     public void resetPosition(){
         astX = random.nextInt(GameView.dWidth - getAstWidth());
         astY = -200 + random.nextInt(600) * -1;
-        astVelocity = 35 + random.nextInt(16);
+        astVelocity = astVelocity + random.nextInt(16);
     }
 }
